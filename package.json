@@ -1,0 +1,22 @@
+{
+  "name": "mega-email-maker",
+  "version": "1.0.0",
+  "description": "Some robots that search emails, send emails and put in spreadsheet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernandingo7/Mega-email-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernandingo7/Mega-email-maker/issues"
+  },
+  "homepage": "https://github.com/Fernandingo7/Mega-email-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
